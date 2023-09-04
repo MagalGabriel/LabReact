@@ -1,11 +1,11 @@
-import hello_world from './assets/images/hello_world.png';
+import rose from './assets/images/Crimson_Rose.png';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-       <img src={hello_world} alt="imagem hello wolrd, olá mundo" className="App-logo" />
+       <img src={rose} alt="Imagem de uma rosa carmesim" className="App-logo" />
        <h1>LABORATÓRIO DE DESENVOLVIMENTO WEB</h1>
        <p>Introdução ao React</p>
        
