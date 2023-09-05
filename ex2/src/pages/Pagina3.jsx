@@ -7,7 +7,7 @@ const Pagina3 = () => {
         <section>
             <h2>Página 3</h2>
             <p>Esta é a página três</p>
-            <img src={Nobaraimg} />
+            <img src={Nobaraimg} className='nobaraimg' alt='Nobara de Jujutsu Kaisen' />
         </section>
     </main>
   )
