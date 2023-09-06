@@ -8,6 +8,8 @@ header{
 }
 
 .logo{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
     padding-right: 8rem;
     width: 20%;
     height: auto;
